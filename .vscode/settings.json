@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Task API",
+            "group": "Development",
+            "database": "${workspaceFolder:task-api}/database.sqlite"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
